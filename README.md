@@ -51,7 +51,7 @@ This project aims to solve these through **data-driven segmentation and trend an
    "Active"` → otherwise  
   This allowed for segmentation without deleting any data.
 
-*[Full cleaning logic in `Data_Cleaning.md`]*
+*[Full cleaning logic in `Data_Cleaning.md`](https://github.com/prachisaladiya/Airbnb-analysis/blob/main/Data_cleaning.md.txt)*
 
 ## Dashboard Preview
 
