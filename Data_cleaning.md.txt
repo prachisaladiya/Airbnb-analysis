@@ -1,0 +1,31 @@
+# Data Cleaning & Outlier Handling
+To ensure accurate analysis and cleaner visual insights, I performed the following key data cleaning steps:
+
+
+1. Price Outlier Detection:
+
+   Outliers were first detected using two standard statistical methods:
+   Z-Score Method → Identified 317 outliers
+   IQR (Interquartile Range) Method → Identified 2,070 outliers (~5% of total data)
+
+Since Airbnb price data is right-skewed (heavily concentrated on lower prices with a few extreme highs), the IQR method was chosen as the primary approach.
+
+-- Why this matters:
+   Removing these extreme price points helped prevent misleading trends and ensured clearer, more accurate visualizations — especially for metrics like average price and price vs. reviews.
+
+
+2. Created a New Column: Status
+
+   A new column named Status was added to label listings as:
+
+  "Active" if availability_365 > 0
+  "Inactive" if availability_365 = 0
+
+This allowed me to analyze active vs. inactive listings without removing or altering the original data.
+
+-- Why this matters:
+   By segmenting active and inactive listings, I was able to generate deeper insights into which boroughs have more inactive properties and which listings may need intervention or cleanup.
+
+
+
+
