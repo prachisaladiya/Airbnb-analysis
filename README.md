@@ -3,8 +3,6 @@ This project explores Airbnb listings in New York City to uncover pricing patter
 
 
 ## Project Overview
-This project analyzes Airbnb listings using SQL, Excel, and Power BI to uncover pricing trends and availability patterns across different neighbourhoods and room types. The objective is to identify active vs inactive listings, detect pricing outliers and provide actionable insights that can assist both Airbnb hosts and business stakeholders in strategic decision-making.
-
 The goal of the project is to draw **business insights from Airbnb data** that can benefit:
 - Hosts (for pricing and visibility)
 - Customers (for better value)
@@ -23,9 +21,7 @@ With thousands of listings across NYC, Airbnb faces challenges in:
 - Helping customers identify high-value and reliable listings
 - Maintaining listing activity and accuracy
 
-This project aims to solve these through **data-driven segmentation and trend analysis**.
-
-
+- 
 ## Tools & Technologies Used
 
 | Tool          | Purpose                                          |
@@ -93,12 +89,11 @@ The interactive Power BI dashboard includes:
 
 
 ## Project Structure
-   bash
-📁 Airbnb_Price_Analysis/
-├── 📄 Airbnb_Cleaned_Data.xlsx
-├── 🗃️ Airbnb_Queries.sql
-├── 📊 Airbnb report.pbix
-├── 📈 Dashboard.png
-├── 📘 README.md
-└── 📘 Data_Cleaning.md
 
+ Airbnb_Price_Analysis/
+├──  Airbnb cleaned data.xlsx
+├──  Airbnb Queries.sql
+├──  Airbnb report.pbix
+├──  Dashboard.png
+├──  README.md
+└──  Data_Cleaning.md
