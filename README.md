@@ -92,9 +92,9 @@ The interactive Power BI dashboard includes:
 
 ```bash
  Airbnb_Price_Analysis/
-├──  Airbnb cleaned data.xlsx
+├──  Airbnb cleaned data.csv
 ├──  Airbnb Queries.sql
 ├──  Airbnb report.pbix
 ├──  Dashboard.png
 ├──  README.md
-└──  Data_Cleaning.md
+└──  Data_Cleaning.md.txt
