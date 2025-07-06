@@ -21,7 +21,7 @@ With thousands of listings across NYC, Airbnb faces challenges in:
 - Helping customers identify high-value and reliable listings
 - Maintaining listing activity and accuracy
 
-- 
+  
 ## Tools & Technologies Used
 
 | Tool          | Purpose                                          |
@@ -90,6 +90,7 @@ The interactive Power BI dashboard includes:
 
 ## Project Structure
 
+```bash
  Airbnb_Price_Analysis/
 ├──  Airbnb cleaned data.xlsx
 ├──  Airbnb Queries.sql
