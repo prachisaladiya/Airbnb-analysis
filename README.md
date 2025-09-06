@@ -1,4 +1,4 @@
-# Airbnb Price & Location Analysis — Data Analyst Portfolio Project
+# Airbnb Pricing & Anamoly Detection for Digital Experience — Data Analyst Portfolio Project
 This project explores Airbnb listings in New York City to uncover pricing patterns, room type distributions, host behaviors, and listing availability. It was completed as a self-initiated, unguided project to demonstrate my skills in SQL, Power BI, Excel, and business data analysis.
 
 
